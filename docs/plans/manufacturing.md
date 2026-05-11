@@ -6,6 +6,10 @@ The product is a small ESP32-powered desktop traffic light. It is not a children
 
 The current ESP32-C3 Super Mini LED pin layout is documented in [ESP32-C3 Super Mini Pinout](./esp32-pinout.md). PCB, firmware, and manufacturing test files should use that document as the source of truth.
 
+The detailed electronics design and PCBA production process is documented in [PCBA Design And Manufacturing Guide](./pcba.md).
+
+A current supplier research list is documented in [Manufacturer Longlist](./manufacturer-longlist.md).
+
 ## Manufacturing Strategy
 
 Use a staged hardware process:

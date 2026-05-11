@@ -19,8 +19,10 @@ export default defineConfig({
           { text: 'Overview', link: '/plans/' },
           { text: 'Device', link: '/plans/device' },
           { text: 'ESP32 Pinout', link: '/plans/esp32-pinout' },
+          { text: 'PCBA Guide', link: '/plans/pcba' },
           { text: 'Desktop Client', link: '/plans/desktopClient' },
           { text: 'Manufacturing', link: '/plans/manufacturing' },
+          { text: 'Manufacturer Longlist', link: '/plans/manufacturer-longlist' },
           { text: 'Distribution', link: '/plans/distribution' },
           { text: 'Marketing', link: '/plans/marketing' }
         ]
